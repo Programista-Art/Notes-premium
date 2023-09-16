@@ -1,2 +1,12 @@
 # Notes-premium
 Notes premium
+Notes Premium - Twoje Perfekcyjne Narzędzie do Zarządzania Notatkami
+Notes Premium to zaawansowany program do zarządzania notatkami, który umożliwia użytkownikom pełną kontrolę nad swoimi dokumentami tekstowymi. Ten wyjątkowy program oferuje szereg funkcji, które sprawią, że tworzenie, edytowanie i organizacja notatek stanie się łatwiejsza i bardziej efektywna niż kiedykolwiek wcześniej. Oto główne możliwości programu Notes Premium:
+    1. Otwiera Wszystkie Pliki Tekstowe: Notes Premium obsługuje pliki w formatach TXT i RTF, co oznacza, że możesz swobodnie otwierać i edytować istniejące dokumenty zapisane w tych formatach bez żadnych         problemów.
+    2. Tworzenie Nowych Plików: Bez względu na to, czy potrzebujesz utworzyć nową notatkę, listę czy też dokument, Notes Premium pozwala tworzyć nowe pliki tekstowe w prosty i intuicyjny sposób.
+    3. Zmiana Nazwy Otwartego Pliku: Opcja zmiany nazwy pliku umożliwia ci nadawanie odpowiednich i opisowych nazw swoim dokumentom, co ułatwia ich identyfikację i organizację.
+    4. Zapisywanie w Formatach RTF i TXT: Niezależnie od preferowanego formatu zapisu, Notes Premium pozwala na zapisywanie twoich notatek w formacie RTF lub TXT, zapewniając elastyczność i kompatybilność.
+    5. Edycja Tekstu: Program oferuje zaawansowane narzędzia do edycji tekstu, w tym kopiowanie, wklejanie, wycinanie oraz formatowanie tekstu. Dzięki temu możesz swobodnie dostosowywać treść swoich               notatek.
+    6. Personalizacja Czcionki i Koloru Tekstu: Chcesz nadać swoim notatkom wyjątkowy wygląd? Notes Premium pozwala dostosować czcionkę i kolor tekstu, aby tworzyć notatki o charakterze i stylu                    odpowiadającym twoim preferencjom.
+    7. Tryb Programu na Górze lub Normalny: Dla wygody użytkownika, Notes Premium umożliwia ustawienie trybu programu na zawsze na górze lub normalny, zapewniając dostęp do narzędzi notatnika zawsze, gdy         ich potrzebujesz.
+Dzięki Notes Premium możesz skupić się na tworzeniu i zarządzaniu notatkami, nie martwiąc się o techniczne szczegóły. To wszechstronny program, który spełni oczekiwania zarówno profesjonalistów, jak i osób prywatnych, które cenią sobie efektywność w zarządzaniu informacjami. Niezależnie od tego, czy jesteś studentem, pracownikiem biurowym czy twórczą duszą, Notes Premium jest idealnym narzędziem do tworzenia i organizowania twoich notatek.
