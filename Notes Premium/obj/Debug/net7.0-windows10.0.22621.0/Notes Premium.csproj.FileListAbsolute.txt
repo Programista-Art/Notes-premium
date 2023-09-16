@@ -1,0 +1,45 @@
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.exe
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.deps.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.runtimeconfig.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes_Premium.Form1.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes_Premium.Help.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.GenerateResource.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.AssemblyInfoInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.AssemblyInfo.cs
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.CopyComplete
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\refint\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.genruntimeconfig.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\ref\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes_Premium.FormSettings.resources
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.exe
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.deps.json
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.runtimeconfig.json
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes_Premium.Form1.resources
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes_Premium.FormSettings.resources
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes_Premium.Help.resources
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes_Premium.Properties.Resources.resources
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.GenerateResource.cache
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.AssemblyInfoInputs.cache
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.AssemblyInfo.cs
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.csproj.CopyComplete
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\refint\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\Notes Premium.genruntimeconfig.cache
+C:\Users\Programista\Desktop\Programy\Notes Premium12.07.2023\wrzesie 2023\9.09.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows10.0.22621.0\ref\Notes Premium.dll

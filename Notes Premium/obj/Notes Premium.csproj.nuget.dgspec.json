@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Programista\\Desktop\\Programy\\Notes Premium12.07.2023\\wrzesie 2023\\9.09.2023 Notes Premium\\Notes Premium\\Notes Premium.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Programista\\Desktop\\Programy\\Notes Premium12.07.2023\\wrzesie 2023\\9.09.2023 Notes Premium\\Notes Premium\\Notes Premium.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Programista\\Desktop\\Programy\\Notes Premium12.07.2023\\wrzesie 2023\\9.09.2023 Notes Premium\\Notes Premium\\Notes Premium.csproj",
+        "projectName": "Notes Premium",
+        "projectPath": "C:\\Users\\Programista\\Desktop\\Programy\\Notes Premium12.07.2023\\wrzesie 2023\\9.09.2023 Notes Premium\\Notes Premium\\Notes Premium.csproj",
+        "packagesPath": "C:\\Users\\Programista\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Programista\\Desktop\\Programy\\Notes Premium12.07.2023\\wrzesie 2023\\9.09.2023 Notes Premium\\Notes Premium\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Programista\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows10.0.22621.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows10.0.22621": {
+            "targetAlias": "net7.0-windows10.0.22621.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows10.0.22621": {
+          "targetAlias": "net7.0-windows10.0.22621.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.29, 10.0.22621.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

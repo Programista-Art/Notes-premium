@@ -1,0 +1,54 @@
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.exe
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.deps.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.runtimeconfig.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes_Premium.Form1.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.GenerateResource.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.AssemblyInfoInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.AssemblyInfo.cs
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\refint\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.genruntimeconfig.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\ref\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\12.07.2023\Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes_Premium.Help.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.exe
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.deps.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.runtimeconfig.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes_Premium.Form1.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes_Premium.Help.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.GenerateResource.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.AssemblyInfoInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.AssemblyInfo.cs
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\refint\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.genruntimeconfig.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\16.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\ref\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.exe
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.deps.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.runtimeconfig.json
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\bin\Debug\net7.0-windows\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes_Premium.Form1.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes_Premium.Help.resources
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.GenerateResource.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.AssemblyInfoInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.AssemblyInfo.cs
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\refint\Notes Premium.dll
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.pdb
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\Notes Premium.genruntimeconfig.cache
+C:\Users\Programista\Desktop\Programy\Lipiec 2023\Notes Premium12.07.2023\19.07.2023 Notes Premium\Notes Premium\obj\Debug\net7.0-windows\ref\Notes Premium.dll
